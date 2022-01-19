@@ -1,2 +1,2 @@
-# Angullat_test
+# AngularJS_test
 Angular Example
